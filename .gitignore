@@ -5,4 +5,4 @@ __pycache__/
 .env.*
 !.env.example
 uploads/*
-! uploads/.gitkeep
+!uploads/.gitkeep
